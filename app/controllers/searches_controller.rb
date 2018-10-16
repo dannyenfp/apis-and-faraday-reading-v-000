@@ -21,6 +21,7 @@ class SearchesController < ApplicationController
     end
     render 'search'
   end 
+end 
   
    def search
   end
